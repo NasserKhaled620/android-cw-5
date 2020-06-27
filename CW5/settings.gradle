@@ -1,0 +1,2 @@
+rootProject.name='CW5'
+include ':app'
